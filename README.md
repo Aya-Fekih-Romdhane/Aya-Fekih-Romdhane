@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aya-Fekih-Romdhane
 - 👀 I’m interested in full stack js
-- 🌱 I’m currently learning telecomputing engineering 
-- 💞️ I’m looking for End of study internship 
+- 🌱 I’m currently software  engineer
+- 💞️ I’m looking for new job
 - 📫 How to reach me fekih.aya@gmail.com
 
 <!---
